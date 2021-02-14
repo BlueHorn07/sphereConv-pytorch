@@ -44,7 +44,7 @@ LonLatSamplingPattern = gridGenerator.createSamplingPattern()
 
 This code only use `numpy` and is written `numpy`-friendly! However, this code is super `numpy`-friendly you may feel hard to understand the flow of code 😢. 
 
-I attach some comments on my code and explain how shape of array changes. Good Luck 🤞.
+I attach some comments on my code and explain how the shape of array changes. Good Luck 🤞.
 
 
 ### class `SphereConv2d`
