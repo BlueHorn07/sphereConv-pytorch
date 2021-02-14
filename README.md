@@ -4,7 +4,7 @@ Fast and Simple Spherical Convolution PyTorch code 🌏
 
 This Code is an unofficial implementation of "SphereNet: Learning Spherical Representations for Detection and Classification in Omnidirectional Images(ECCV 2018)", and upgrade version of [ChiWeiHsiao/SphereNet-pytorch](https://github.com/ChiWeiHsiao/SphereNet-pytorch).
 
-This Code support spherical kernel sampling on "Equirectangular Image"!
+This Code supports spherical kernel sampling on "Equirectangular Image"!
 
 I wrote the code to be `numpy`-friendly and `torch`-friendly. 😉
 
